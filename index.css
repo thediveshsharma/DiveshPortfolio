@@ -105,8 +105,23 @@ img {
     margin-top: 80px;
 }
 
-@media (min-width: 576px) {
+.titleone {
+    font-size: 60px;
+}
+
+.titletwo{
+    font-size: 20px;
+}
+
+@media (max-width: 576px) {
     .videomargin { 
         margin-bottom: 20px;
     }
+    .titleone {
+        font-size: 15px;
+    }
+    .titletwo {
+        font-size: 10px;
+    }
+
 }
