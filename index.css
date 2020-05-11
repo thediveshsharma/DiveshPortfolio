@@ -104,12 +104,12 @@ img {
 .margin2 {
     margin-top: 80px;
 }
-@media (min-width: 768px) {
+@media (max-width: 768px) {
     .videomargin { 
         margin-bottom: 20px;
     }
 }
-@media (min-width: 576px) {
+@media (max-width: 576px) {
     .videomargin { 
         margin-bottom: 20px;
     }
