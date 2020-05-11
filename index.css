@@ -118,16 +118,17 @@ img {
         margin-bottom: 20px;
     }
     .titleone {
-        font-size: 21px;
+        font-size: 35px;
     }
     .titletwo {
-        font-size: 9px;
+        font-size: 14px;
     }
     .buttonsizemobile {
         padding:4px 8px 4px 8px;
         font-size: 15px;
     }
     .buttonmargin {
+        width: 100vw;
         font-size: 30px;
     }
 
