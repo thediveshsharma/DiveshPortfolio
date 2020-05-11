@@ -94,10 +94,6 @@ img {
     margin: 50px;
     justify-content: space-evenly;
 }
-.youtubevideo{
-    background-color: red;
-    align-items: center;
-}
 .margin {
     margin-top: 40px;
     margin-bottom: 40px;
@@ -107,7 +103,4 @@ img {
 }
 .margin2 {
     margin-top: 80px;
-}
-.spaceevenly{
-    justify-content: space-evenly;
 }
