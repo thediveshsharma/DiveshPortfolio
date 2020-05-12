@@ -113,9 +113,6 @@
     font-size: 20px;
 }
 
-.zoom:hover {
-    transform: scale(1.1);
-
 @media (max-width: 576px) {
     .videomargin { 
         margin-bottom: 20px;
@@ -133,6 +130,9 @@
     .buttonmargin {
         width: 100vw;
         font-size: 30px;
+    }
+    .zoom:hover {
+        transform: scale(1);
     }
     
 }
