@@ -133,6 +133,12 @@ html {
 
 .svg {
     position: relative;
-    bottom: -290px;
-    opacity: 0.8;
+    bottom: -225px;
+    opacity: 0.4;
+}
+
+.svg2 {
+    position: relative;
+    bottom: 60px;
+    opacity: ;
 }
