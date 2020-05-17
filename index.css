@@ -47,6 +47,8 @@ html {
 
 .cards {
     margin: 50px;
+    box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.5);
+    padding: 20px;
 }
 
 .margin {
@@ -104,6 +106,13 @@ html {
         width: 100%;
         height: 100%;
     }   
+    .cardspadding {
+        padding: 0px
+    } 
+    .photoshadow {
+        padding: 0px;
+      }  
+    
 }
 
 .zoom:hover {
@@ -203,3 +212,11 @@ html {
       transform: translateY(5px);
     }
   }
+  .photoshadow {
+    box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+  }  
+
+  .cardspadding {
+      padding: 10px
+  } 
